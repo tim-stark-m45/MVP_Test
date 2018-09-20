@@ -1,0 +1,10 @@
+C:\Users\Timka\source\repos\MVPtest\MVPtest\bin\Debug\MVPtest.exe.config
+C:\Users\Timka\source\repos\MVPtest\MVPtest\bin\Debug\MVPtest.exe
+C:\Users\Timka\source\repos\MVPtest\MVPtest\bin\Debug\MVPtest.pdb
+C:\Users\Timka\source\repos\MVPtest\MVPtest\obj\Debug\MVPtest.csprojResolveAssemblyReference.cache
+C:\Users\Timka\source\repos\MVPtest\MVPtest\obj\Debug\MVPtest.Properties.Resources.resources
+C:\Users\Timka\source\repos\MVPtest\MVPtest\obj\Debug\MVPtest.csproj.GenerateResource.Cache
+C:\Users\Timka\source\repos\MVPtest\MVPtest\obj\Debug\MVPtest.csproj.CoreCompileInputs.cache
+C:\Users\Timka\source\repos\MVPtest\MVPtest\obj\Debug\MVPtest.exe
+C:\Users\Timka\source\repos\MVPtest\MVPtest\obj\Debug\MVPtest.pdb
+C:\Users\Timka\source\repos\MVPtest\MVPtest\obj\Debug\MVPtest.View.ContactsForm.resources
